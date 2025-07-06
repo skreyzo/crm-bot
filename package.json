@@ -1,0 +1,27 @@
+{
+  "name": "crm-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skreyzo/crm-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skreyzo/crm-bot/issues"
+  },
+  "homepage": "https://github.com/skreyzo/crm-bot#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "lowdb": "^7.0.1",
+    "nanoid": "^5.1.5",
+    "node-cron": "^4.2.0",
+    "telegraf": "^4.16.3"
+  }
+}

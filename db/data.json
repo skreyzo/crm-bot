@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "id": "HFRyi1",
+      "name": "<Стефания>",
+      "grade": "<7>",
+      "phone": "<89113452986>",
+      "createdAt": 1751839401474
+    },
+    {
+      "id": "Y23YQS",
+      "name": "<Алиса>",
+      "grade": "<7>",
+      "phone": "<89113452946>",
+      "createdAt": 1751839460246
+    }
+  ],
+  "lessons": [],
+  "payments": []
+}
